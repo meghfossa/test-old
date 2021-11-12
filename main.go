@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("from new repository")
+	fmt.Println("from new repository! wow!")
 }
